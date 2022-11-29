@@ -1,9 +1,6 @@
 import operations
 import sys
-#Archivo de caculadora
-#Comentario2
-#Tercer comentario
-#Confirm dev branch
+
 operation=sys.argv[1]
 num1=int(sys.argv[2])
 num2=int(sys.argv[3])
